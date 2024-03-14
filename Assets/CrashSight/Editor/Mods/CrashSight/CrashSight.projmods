@@ -1,0 +1,22 @@
+{
+    "group": "CrashSight",
+    "libs": [
+    			"libz.dylib", 
+    			"libc++.dylib"
+    		],
+    "frameworks": [
+	 				"SystemConfiguration.framework",
+    				"Security.framework",
+                    "JavaScriptCore.framework",
+                    "MetricKit.framework:weak"
+    			  ],
+    "headerpaths": [],
+    "files":   [],
+    "folders": [],    
+    "excludes": ["^.*.meta$", "^.*.mdown$", "^.*.pdf$"],
+    "compiler_flags": [],
+    "linker_flags": [
+    					"-ObjC"
+    				]
+
+}
