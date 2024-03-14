@@ -1,0 +1,13 @@
+{
+    "name": "com.chaoshen.crashsightunitysdk",
+    "version": "4.2.14.4",
+    "displayName": "CrashSight Unity SDK",
+    "description": "A Unity SDK for CrashSight.",
+    "unity": "2020.1", 
+    "author": {
+      "name": "chaoshen network",
+      "email": "support@yourcompany.com",
+      "url": "https://yourcompany.com"
+    },
+    "dependencies": {}
+  }
