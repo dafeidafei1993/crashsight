@@ -11,5 +11,12 @@
     },
     "dependencies": {
       
-    }
+    },
+    "samples": [
+      {
+        "displayName": "Samples",
+        "description": "CrashSightSample",
+        "path": "Samples~/"
+      }
+    ]
   }

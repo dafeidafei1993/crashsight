@@ -1,0 +1,16 @@
+{
+    "name": "chaoshen.crashsightunitysdk.Runtime.Tests",
+    "rootNamespace": "",
+    "references": [
+        "GUID:962a42234f3830a459950efa1bdb61fa"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
