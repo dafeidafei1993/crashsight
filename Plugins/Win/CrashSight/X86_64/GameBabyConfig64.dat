@@ -1,9 +1,0 @@
-<GameBabyConfig __version="1">
-	<GameName>testTQM.exe</GameName>
-	<LobbyName></LobbyName>
-	<IgnoreDllCnt>2</IgnoreDllCnt>
-	<IgnoreDlls>TenSLX.dll</IgnoreDlls>
-	<IgnoreDlls>Tensafe.dll</IgnoreDlls>
-	<AppId></AppId>
-	<DomainUrl></DomainUrl>
-</GameBabyConfig>
